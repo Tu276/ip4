@@ -38,3 +38,21 @@
   color: rgb(255, 255, 255);
   font-size: 20px;
   text-align: left;
+}
+
+#about { 
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.column {/* Float columns side by side */
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+  
+}
