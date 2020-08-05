@@ -31,3 +31,4 @@ function size() {
           this.newTopping = topping;
           this.newQuantity = quantity;
           }            
+          var userInput = new Order(flavor(), size(), crust(), topping(), number()); 
