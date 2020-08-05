@@ -20,3 +20,8 @@ function size() {
       var pizzaTopping = document.getElementById("topping").value;
       return parseInt(pizzaTopping);
       }
+      function number() {
+        var pizzaNumber = document.getElementById("quantity").value;
+        return parseInt(pizzaNumber);
+        }
+        
