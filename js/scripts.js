@@ -10,3 +10,8 @@ function size() {
   var pizzaSize = document.getElementById("size").value;
   return parseInt(pizzaSize);
   }
+
+  function crust() {
+    var pizzaCrust = document.getElementById("crust").value;
+    return parseInt(pizzaCrust);
+    }
