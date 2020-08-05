@@ -20,3 +20,14 @@
   margin-bottom: 5px;
   position: relative;
 }
+
+
+.mainheading { /*main heading welcome to delani studio settings*/
+  font-family: "Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif";
+  text-shadow: 0 0 15px black;
+  color: ivory;
+  font-size: 50px;
+  text-align: left;
+  
+
+}
