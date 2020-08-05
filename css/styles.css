@@ -31,3 +31,10 @@
   
 
 }
+
+.slogan { /*main heading slogan settings*/
+  font-family: "Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif";
+  text-shadow: 0 0 10px rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  text-align: left;
