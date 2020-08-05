@@ -112,3 +112,14 @@ a:link{text-decoration:none;}
 .box2{background: rgba(139, 138, 138, 0.6);}
 .box3{background: rgba(78, 78, 78, 0.6);;}
 
+@media (max-width: 767px)
+
+.footer-bottom, .footer-social {
+    text-align: right;
+}
+.footer-bottom {
+    padding: 50px 27px;
+    background: #444;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
