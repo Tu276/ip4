@@ -15,3 +15,8 @@ function size() {
     var pizzaCrust = document.getElementById("crust").value;
     return parseInt(pizzaCrust);
     }
+
+    function topping() {
+      var pizzaTopping = document.getElementById("topping").value;
+      return parseInt(pizzaTopping);
+      }
