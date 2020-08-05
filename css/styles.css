@@ -67,3 +67,21 @@ body {
     clear: both;
   }
   
+  @media screen and (max-width: 600px) { /* Responsive columns */
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+      align-items: center;
+    }
+  }
+  
+ 
+  .card {  /* Style the counter cards */
+    box-shadow: 10px 30px 30px 10px rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    text-align: center;
+    background-color: #dabbbb;
+    border-radius: 30%;
+    background-image: url(https://www.cheese.com/media/img/cheese/10-American-Cheese-shutterstock_1610208106.jpg);
+  }
