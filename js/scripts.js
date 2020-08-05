@@ -39,3 +39,6 @@ function size() {
           prompt("Where are you located");
           alert("Thank you for the order, Your pizza will be delivered in 1 hour");
           
+          event.preventDefault();
+});
+});
