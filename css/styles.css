@@ -27,7 +27,7 @@
   text-shadow: 0 0 15px black;
   color: ivory;
   font-size: 50px;
-  text-align: left;
+  text-align: center;
   
 
 }
@@ -37,7 +37,7 @@
   text-shadow: 0 0 10px rgb(0, 0, 0);
   color: rgb(255, 255, 255);
   font-size: 20px;
-  text-align: left;
+  text-align: center;
 }
 
 #about { 
