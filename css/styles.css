@@ -101,3 +101,14 @@ body {
     background-color: #f2f2f2;
     padding: 10px;
   }  
+
+  hr {border-top: 1px solid #000; width:50%;}
+
+a {color: #000;}
+
+a:link{text-decoration:none;}
+
+.box1{background: rgba(199, 199, 199, 0.6);}
+.box2{background: rgba(139, 138, 138, 0.6);}
+.box3{background: rgba(78, 78, 78, 0.6);;}
+
